@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Signing keys and Firebase config stay out of the repo
+*.jks
+*.keystore
+google-services.json
